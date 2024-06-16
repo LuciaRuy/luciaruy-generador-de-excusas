@@ -22,7 +22,3 @@ document.getElementById('excuse').innerHTML = generateExcuse();
 
 
 
-
-
-
-}
